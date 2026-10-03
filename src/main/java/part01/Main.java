@@ -14,5 +14,12 @@ package part01;
 //    saying in YOUR OWN WORDS what that line does. The README shows an example.
 
 public class Main {
-
+    public static void main(String[] args){
+        System.out.println("\t\"I love pizza\"\n");
+        System.out.println("It's really good \\");
+        // This is a comment
+        /* This is a longer form
+        of the same comment
+         */
+    }
 }
