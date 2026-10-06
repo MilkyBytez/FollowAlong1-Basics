@@ -9,5 +9,14 @@ package part01;
 // There is no main method here yet. Typing it is part of the stretch.
 
 public class Stretch {
+    public static void main(String[] args) {
+        System.out.println("=== ROVER STATUS ===");
+        System.out.println("Name:\t\t\"Sting\"");
+        System.out.println("Battery:\t87%");
+        System.out.println("Mode:\t\tCRUISE");
+        System.out.println("Log file:\tC:\\rover\\log.txt");
+        System.out.println("Status:\t\tAll systems \"go\"");
+
+    }
 
 }
