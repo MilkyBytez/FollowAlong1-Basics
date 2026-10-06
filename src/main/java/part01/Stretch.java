@@ -10,12 +10,37 @@ package part01;
 
 public class Stretch {
     public static void main(String[] args) {
-        System.out.println("=== ROVER STATUS ===");
-        System.out.println("Name:\t\t\"Sting\"");
-        System.out.println("Battery:\t87%");
-        System.out.println("Mode:\t\tCRUISE");
-        System.out.println("Log file:\tC:\\rover\\log.txt");
-        System.out.println("Status:\t\tAll systems \"go\"");
+        /* MY GUESS:
+            A
+            B
+            C
+                D\
+            "E"
+            G
+
+        */
+        System.out.println("A");
+        System.out.println("B");
+        System.out.print("C\n");
+        System.out.println("\tD\\");
+        System.out.println("\"E\"");
+        // System.out.println("F");
+        System.out.print("G");
+        System.out.println();
+
+        System.out.println("Destiny Nkop");
+        System.out.println("Computer Science");
+        System.out.println("Class of 2029");
+
+        System.out.println("Destiny Nkop");
+        System.out.print("Computer Science\n");
+        System.out.print("Class of 2029\n");
+
+        System.out.println("Day\t\tClass\t\t\tTime");
+        System.out.println("Mon\t\tCSCI-121\t\t2:00 PM");
+        System.out.println("Tue\t\tCSCI-121\t\t3:00 PM");
+        System.out.println("My teacher said \"type it yourself.\"");
+        System.out.println("My code lives in C:\\Users\\destiny\\csci121");
 
     }
 
